@@ -149,7 +149,7 @@ function GitHubPage() {
         <p>You can find my work here:</p>
         <p>
           <a href="https://github.com/pranavirajuk" target="_blank" rel="noreferrer">
-            https://github.com/your-username
+            https://github.com/pranavirajuk
           </a>
         </p>
       </div>
