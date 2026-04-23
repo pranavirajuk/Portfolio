@@ -148,11 +148,10 @@ function GitHubPage() {
         <h1>GitHub</h1>
         <p>You can find my work here:</p>
         <p>
-          <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
+          <a href="https://github.com/pranavirajuk" target="_blank" rel="noreferrer">
             https://github.com/your-username
           </a>
         </p>
-        <p>Replace this with your actual GitHub profile link.</p>
       </div>
     </Layout>
   );
